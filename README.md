@@ -50,7 +50,7 @@ I follow **Agile & Scrum methodologies** to ensure efficient teamwork and projec
 
 📧 **aboumalikahmed98@gmail.com**  
 🌍 Location: Morocco  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YourProfile)
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ahmed-malik-5009213aa)
 
 ---
 
