@@ -26,3 +26,32 @@ Hi 👋, I'm **Aboumalik Ahmed**, a **Junior Full Stack JavaScript Developer** p
 [![](https://visitcount.itsvg.in/api?id=aboumalik-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 📂 Projects / Pinned Repos
+
+### [SiteWeb](https://github.com/YourUsername/siteweb)
+- Full Stack Web Application using **React, Node.js, Express, MongoDB / PostgreSQL**
+- Responsive front-end with dynamic features
+- RESTful API + Database integration
+- ![Screenshot1](https://via.placeholder.com/300x150.png?text=SiteWeb+1)
+- ![Screenshot2](https://via.placeholder.com/300x150.png?text=SiteWeb+2)
+- README includes installation instructions and features
+
+### [AnotherProject](https://github.com/YourUsername/anotherproject)
+- Backend API with **Node.js & Express**
+- PostgreSQL database integration
+- JWT Authentication, CRUD operations
+- ![Screenshot1](https://via.placeholder.com/300x150.png?text=AnotherProject+1)
+- ![Screenshot2](https://via.placeholder.com/300x150.png?text=AnotherProject+2)
+- Well-documented README
+
+*(Add more projects here…)*
+
+---
+
+## 📫 Contact
+
+📧 **aboumalikahmed98@gmail.com**  
+🌍 Location: Morocco  
+🔗 LinkedIn: [Ahmed Malik](https://www.linkedin.com/in/ahmed-malik-5009213aa)
