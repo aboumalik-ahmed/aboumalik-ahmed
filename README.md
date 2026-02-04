@@ -40,7 +40,7 @@ I follow **Agile & Scrum methodologies** to ensure efficient teamwork and projec
 - ![Screenshot2](https://via.placeholder.com/300x150.png?text=SiteWeb+2)
 - README includes installation instructions and features
 
-### [AnotherProject](https://github.com/YourUsername/anotherproject)
+### [AnotherProject](https://github.com/aboumalik-ahmed)
 - Backend API with **Node.js & Express**
 - PostgreSQL database integration
 - JWT Authentication, CRUD operations
@@ -48,7 +48,7 @@ I follow **Agile & Scrum methodologies** to ensure efficient teamwork and projec
 - ![Screenshot2](https://via.placeholder.com/300x150.png?text=AnotherProject+2)
 - Well-documented README
 
-
+*(Add more projects here…)*
 
 ---
 
