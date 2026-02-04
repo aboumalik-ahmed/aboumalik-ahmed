@@ -10,6 +10,8 @@ and continuously improving my skills.
 
 I follow **Agile & Scrum methodologies** to ensure efficient teamwork and project delivery.
 
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-malik-5009213aa)
+
 ---
 
 ## 💻 Tech Stack
@@ -30,19 +32,23 @@ I follow **Agile & Scrum methodologies** to ensure efficient teamwork and projec
 
 ## 📂 Projects / Pinned Repos
 
-### [SiteWeb](https://github.com/YourUsername/siteweb)
+### [SiteWeb](https://github.com/aboumalik-ahmed)
 - Full Stack Web Application using **React, Node.js, Express, MongoDB / PostgreSQL**
 - Responsive front-end with dynamic features
 - RESTful API + Database integration
-- README includes screenshots, installation instructions, and features
+- ![Screenshot1](https://via.placeholder.com/300x150.png?text=SiteWeb+1)
+- ![Screenshot2](https://via.placeholder.com/300x150.png?text=SiteWeb+2)
+- README includes installation instructions and features
 
 ### [AnotherProject](https://github.com/YourUsername/anotherproject)
 - Backend API with **Node.js & Express**
 - PostgreSQL database integration
 - JWT Authentication, CRUD operations
+- ![Screenshot1](https://via.placeholder.com/300x150.png?text=AnotherProject+1)
+- ![Screenshot2](https://via.placeholder.com/300x150.png?text=AnotherProject+2)
 - Well-documented README
 
-*(Add more projects here…)*
+
 
 ---
 
@@ -50,13 +56,12 @@ I follow **Agile & Scrum methodologies** to ensure efficient teamwork and projec
 
 📧 **aboumalikahmed98@gmail.com**  
 🌍 Location: Morocco  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ahmed-malik-5009213aa)
+🔗 LinkedIn: [Ahmed Malik](https://www.linkedin.com/in/ahmed-malik-5009213aa)
 
 ---
 
-### 🔹 Tips to keep this README pro
-- Add screenshots or GIFs for each project to show UI or flows.
-- Pin the most important repos (SiteWeb, AnotherProject, etc.).
-- Update this README whenever you add new skills or projects.
-- Use badges from Shields.io for languages, frameworks, tools, status, or CI if needed.  
-  Shields.io lets you generate badges easily for your README, used by many popular projects. :contentReference[oaicite:0]{index=0}
+### 🔹 Tips to keep it Pro
+- Add more screenshots or GIFs for each project to show UI and functionality.  
+- Pin the most important repos (SiteWeb, AnotherProject, etc.) on your profile.  
+- Update README whenever you add new skills or projects.  
+- Use Shields.io badges for all tech stack and CI status.  
